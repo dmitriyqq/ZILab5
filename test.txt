@@ -1,0 +1,2 @@
+The Rabin cryptosystem is an asymmetric cryptographic technique, whose security, like that of RSA, is related to the difficulty of integer factorization.
+
